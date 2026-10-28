@@ -1,5 +1,8 @@
 # `<0)))><`   zerofish
 
+> **Retired:** This repository is preserved for reference and is no longer maintained.
+> Active development continues at [petrpravda/zerofish](https://github.com/petrpravda/zerofish).
+
 zerofish is a free, open-source, minimalistic chess engine written in Rust implementing UCI.
 
 ## Features
